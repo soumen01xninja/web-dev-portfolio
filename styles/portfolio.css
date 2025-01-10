@@ -139,3 +139,16 @@
   .about-item{
     text-align: center;
   }
+  .text{
+    text-align: center;
+    margin-top: 150px;
+  }
+  .joy{
+    font-weight: bold;
+    font-size: 35px;
+  }
+  .bijoy{
+    font-size: 18px;
+    font-weight: 400;
+    color: #757575;
+  }
